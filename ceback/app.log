@@ -1,0 +1,1176 @@
+INFO 2026-10-15 17:09:35,720 autoreload 16588 9388 Watching for file changes with StatReloader
+INFO 2026-10-15 19:10:21,663 autoreload 3972 18856 Watching for file changes with StatReloader
+INFO 2026-10-15 19:12:21,321 autoreload 3972 18856 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-10-15 19:12:22,345 autoreload 12516 24320 Watching for file changes with StatReloader
+INFO 2026-10-15 19:13:09,948 autoreload 12516 24320 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-10-15 19:13:10,735 autoreload 25864 14024 Watching for file changes with StatReloader
+INFO 2026-10-15 19:13:29,747 autoreload 25864 14024 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-10-15 19:13:30,526 autoreload 28288 15340 Watching for file changes with StatReloader
+INFO 2026-10-15 19:15:13,865 autoreload 28288 15340 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-10-15 19:15:14,719 autoreload 19824 18824 Watching for file changes with StatReloader
+INFO 2026-10-15 19:17:01,835 autoreload 19824 18824 C:\Users\alim\Desktop\itpm proj\ceback\ceback\urls.py changed, reloading.
+INFO 2026-10-15 19:17:02,739 autoreload 17816 20504 Watching for file changes with StatReloader
+INFO 2026-10-15 19:17:21,945 autoreload 17816 20504 C:\Users\alim\Desktop\itpm proj\ceback\ceback\urls.py changed, reloading.
+INFO 2026-10-15 19:17:22,654 autoreload 27872 2864 Watching for file changes with StatReloader
+INFO 2026-10-15 19:17:24,299 autoreload 27872 2864 C:\Users\alim\Desktop\itpm proj\ceback\ceback\urls.py changed, reloading.
+INFO 2026-10-15 19:17:25,074 autoreload 4000 17296 Watching for file changes with StatReloader
+INFO 2026-10-15 19:48:31,459 autoreload 15368 29116 Watching for file changes with StatReloader
+INFO 2026-10-15 19:48:38,785 log 15368 22000 "GET / HTTP/1.1" 302 0
+WARNING 2026-10-15 19:48:38,794 log 15368 22000 Not Found: /accounts/login/
+WARNING 2026-10-15 19:48:38,795 log 15368 22000 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+WARNING 2026-10-15 19:48:38,890 log 15368 22000 Not Found: /favicon.ico
+WARNING 2026-10-15 19:48:38,892 log 15368 22000 "GET /favicon.ico HTTP/1.1" 404 3362
+WARNING 2026-10-15 19:48:53,280 log 15368 22000 Not Found: /home
+WARNING 2026-10-15 19:48:53,283 log 15368 22000 "GET /home HTTP/1.1" 404 3341
+WARNING 2026-10-15 19:48:56,039 log 15368 22000 Not Found: /home/
+WARNING 2026-10-15 19:48:56,040 log 15368 22000 "GET /home/ HTTP/1.1" 404 3344
+INFO 2026-10-15 19:49:09,453 log 15368 22000 "GET / HTTP/1.1" 302 0
+WARNING 2026-10-15 19:49:09,470 log 15368 22000 Not Found: /accounts/login/
+WARNING 2026-10-15 19:49:09,471 log 15368 22000 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+INFO 2026-10-15 19:49:12,566 log 15368 22000 "GET / HTTP/1.1" 302 0
+WARNING 2026-10-15 19:49:12,578 log 15368 22000 Not Found: /accounts/login/
+WARNING 2026-10-15 19:49:12,579 log 15368 22000 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+INFO 2026-10-15 19:49:24,802 autoreload 15368 29116 C:\Users\alim\Desktop\itpm proj\ceback\ceback\urls.py changed, reloading.
+INFO 2026-10-15 19:49:25,632 autoreload 24528 29612 Watching for file changes with StatReloader
+WARNING 2026-10-15 19:49:28,532 log 24528 24244 Not Found: /accounts/login/
+WARNING 2026-10-15 19:49:28,534 log 24528 24244 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+WARNING 2026-10-15 19:49:41,248 log 24528 24244 Not Found: /admin
+WARNING 2026-10-15 19:49:41,249 log 24528 24244 "GET /admin HTTP/1.1" 404 3344
+WARNING 2026-10-15 19:49:44,773 log 24528 24244 Not Found: /admin/
+WARNING 2026-10-15 19:49:44,774 log 24528 24244 "GET /admin/ HTTP/1.1" 404 3347
+INFO 2026-10-15 19:50:34,638 autoreload 18952 2092 Watching for file changes with StatReloader
+INFO 2026-10-15 19:50:42,496 log 18952 22868 "GET / HTTP/1.1" 302 0
+WARNING 2026-10-15 19:50:42,508 log 18952 22868 Not Found: /accounts/login/
+WARNING 2026-10-15 19:50:42,509 log 18952 22868 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+WARNING 2026-10-15 19:50:42,673 log 18952 22868 Not Found: /favicon.ico
+WARNING 2026-10-15 19:50:42,674 log 18952 22868 "GET /favicon.ico HTTP/1.1" 404 3362
+INFO 2026-10-15 19:51:12,164 autoreload 18952 2092 C:\Users\alim\Desktop\itpm proj\ceback\ceback\urls.py changed, reloading.
+INFO 2026-10-15 19:51:13,042 autoreload 6932 9560 Watching for file changes with StatReloader
+WARNING 2026-10-15 19:51:21,204 log 6932 7364 Not Found: /admin/
+WARNING 2026-10-15 19:51:21,205 log 6932 7364 "GET /admin/ HTTP/1.1" 404 3347
+INFO 2026-10-15 19:51:24,157 log 6932 7364 "GET / HTTP/1.1" 302 0
+WARNING 2026-10-15 19:51:24,173 log 6932 7364 Not Found: /accounts/login/
+WARNING 2026-10-15 19:51:24,175 log 6932 7364 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+INFO 2026-10-15 19:51:25,249 log 6932 7364 "GET / HTTP/1.1" 302 0
+WARNING 2026-10-15 19:51:25,262 log 6932 7364 Not Found: /accounts/login/
+WARNING 2026-10-15 19:51:25,263 log 6932 7364 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+INFO 2026-10-15 19:52:08,627 log 6932 7364 "GET / HTTP/1.1" 302 0
+WARNING 2026-10-15 19:52:08,645 log 6932 7364 Not Found: /accounts/login/
+WARNING 2026-10-15 19:52:08,646 log 6932 7364 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+INFO 2026-10-15 19:52:08,817 log 6932 7364 "GET / HTTP/1.1" 302 0
+WARNING 2026-10-15 19:52:08,837 log 6932 7364 Not Found: /accounts/login/
+WARNING 2026-10-15 19:52:08,839 log 6932 7364 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+INFO 2026-10-15 19:52:18,352 log 6932 13200 "GET / HTTP/1.1" 302 0
+WARNING 2026-10-15 19:52:18,362 log 6932 13200 Not Found: /accounts/login/
+WARNING 2026-10-15 19:52:18,363 log 6932 13200 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+INFO 2026-10-15 19:53:10,575 log 6932 7364 "GET / HTTP/1.1" 302 0
+WARNING 2026-10-15 19:53:10,588 log 6932 7364 Not Found: /accounts/login/
+WARNING 2026-10-15 19:53:10,590 log 6932 7364 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+INFO 2026-10-15 19:53:10,816 log 6932 7364 "GET / HTTP/1.1" 302 0
+WARNING 2026-10-15 19:53:10,826 log 6932 7364 Not Found: /accounts/login/
+WARNING 2026-10-15 19:53:10,827 log 6932 7364 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+INFO 2026-10-15 19:54:00,716 autoreload 6932 9560 C:\Users\alim\Desktop\itpm proj\ceback\ceback\urls.py changed, reloading.
+INFO 2026-10-15 19:54:01,234 autoreload 11916 468 Watching for file changes with StatReloader
+INFO 2026-10-15 19:54:22,543 log 11916 16444 "GET / HTTP/1.1" 302 0
+WARNING 2026-10-15 19:54:22,561 log 11916 16444 Not Found: /accounts/login/
+WARNING 2026-10-15 19:54:22,562 log 11916 16444 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+WARNING 2026-10-15 19:54:22,625 log 11916 16444 Not Found: /favicon.ico
+WARNING 2026-10-15 19:54:22,626 log 11916 16444 "GET /favicon.ico HTTP/1.1" 404 3362
+INFO 2026-10-15 19:56:51,766 autoreload 11916 468 C:\Users\alim\Desktop\itpm proj\ceback\ceback\views.py changed, reloading.
+INFO 2026-10-15 19:56:52,471 autoreload 30336 9308 Watching for file changes with StatReloader
+WARNING 2026-10-15 19:56:56,455 log 30336 12340 Not Found: /accounts/login/
+WARNING 2026-10-15 19:56:56,456 log 30336 12340 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+INFO 2026-10-15 19:57:40,437 autoreload 30336 9308 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-10-15 19:57:41,429 autoreload 26372 1616 Watching for file changes with StatReloader
+WARNING 2026-10-15 19:57:43,343 log 26372 23556 Not Found: /accounts/login/
+WARNING 2026-10-15 19:57:43,345 log 26372 23556 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+WARNING 2026-10-15 19:57:44,938 log 26372 23556 Not Found: /accounts/login/
+WARNING 2026-10-15 19:57:44,939 log 26372 23556 "GET /accounts/login/?next=/ HTTP/1.1" 404 3381
+INFO 2026-10-15 19:58:01,728 autoreload 26372 1616 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-10-15 19:58:02,556 autoreload 15284 14436 Watching for file changes with StatReloader
+INFO 2026-10-15 19:58:04,187 autoreload 15284 14436 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-10-15 19:58:04,874 autoreload 25700 14736 Watching for file changes with StatReloader
+INFO 2026-10-15 19:58:20,272 log 25700 16120 "GET / HTTP/1.1" 302 0
+ERROR 2026-10-15 19:58:20,313 log 25700 16120 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\alim\Desktop\itpm proj\ceback\ceback\views.py", line 72, in LoginView
+    return render(request, 'login.html')
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\shortcuts.py", line 27, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: login.html
+ERROR 2026-10-15 19:58:20,317 log 25700 16120 "GET /login/?next=/ HTTP/1.1" 500 82914
+INFO 2026-10-15 20:00:49,477 log 25700 11352 "GET / HTTP/1.1" 302 0
+ERROR 2026-10-15 20:00:49,502 log 25700 11352 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\alim\Desktop\itpm proj\ceback\ceback\views.py", line 72, in LoginView
+    return render(request, 'login.html')
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\shortcuts.py", line 27, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: login.html
+ERROR 2026-10-15 20:00:49,504 log 25700 11352 "GET /login/?next=/ HTTP/1.1" 500 82914
+INFO 2026-10-15 20:01:03,284 log 25700 17380 "GET / HTTP/1.1" 302 0
+ERROR 2026-10-15 20:01:03,324 log 25700 17380 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\alim\Desktop\itpm proj\ceback\ceback\views.py", line 72, in LoginView
+    return render(request, 'login.html')
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\shortcuts.py", line 27, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: login.html
+ERROR 2026-10-15 20:01:03,327 log 25700 17380 "GET /login/?next=/ HTTP/1.1" 500 83714
+INFO 2026-10-15 20:01:03,474 log 25700 17380 "GET / HTTP/1.1" 302 0
+ERROR 2026-10-15 20:01:03,507 log 25700 17380 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\alim\Desktop\itpm proj\ceback\ceback\views.py", line 72, in LoginView
+    return render(request, 'login.html')
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\shortcuts.py", line 27, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: login.html
+ERROR 2026-10-15 20:01:03,510 log 25700 17380 "GET /login/?next=/ HTTP/1.1" 500 83570
+INFO 2026-10-15 20:02:41,855 autoreload 6072 29184 Watching for file changes with StatReloader
+ERROR 2026-10-15 20:02:46,384 log 6072 28288 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\alim\Desktop\itpm proj\ceback\ceback\views.py", line 72, in LoginView
+    return render(request, 'login.html')
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\shortcuts.py", line 27, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: login.html
+ERROR 2026-10-15 20:02:46,391 log 6072 28288 "GET /login/?next=/ HTTP/1.1" 500 83707
+ERROR 2026-10-15 20:02:48,507 log 6072 28288 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\alim\Desktop\itpm proj\ceback\ceback\views.py", line 72, in LoginView
+    return render(request, 'login.html')
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\shortcuts.py", line 27, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: login.html
+ERROR 2026-10-15 20:02:48,512 log 6072 28288 "GET /login/?next=/ HTTP/1.1" 500 83570
+INFO 2026-10-15 20:05:17,980 autoreload 6072 29184 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-10-15 20:59:34,521 autoreload 6548 22172 Watching for file changes with StatReloader
+INFO 2026-10-15 21:00:04,214 log 6548 23488 "GET /accounts/google/login/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:00:14,617 log 6548 23488 "GET /accounts/google/login/callback/?state=nZ0WXYLjcknySQ11&iss=https://accounts.google.com&code=4/0AXlqoi4Wn0CR77iP6zXDccbfRCkt5eBPn3U2rH1EWZIK8-tRWez26yezmHlGpfHRHFc72A&scope=profile+https://www.googleapis.com/auth/userinfo.profile HTTP/1.1" 302 0
+INFO 2026-10-15 21:00:14,633 log 6548 23488 "GET / HTTP/1.1" 200 276
+INFO 2026-10-15 21:00:20,642 log 6548 23488 "GET / HTTP/1.1" 200 276
+INFO 2026-10-15 21:00:21,692 log 6548 23488 "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:00:21,744 log 6548 23488 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3957
+INFO 2026-10-15 21:00:37,253 log 6548 29896 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:00:37,290 log 6548 29896 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-15 21:00:47,039 log 6548 29896 "GET /admin/auth/user/ HTTP/1.1" 200 16740
+INFO 2026-10-15 21:00:47,113 log 6548 29896 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-15 21:00:47,313 log 6548 11708 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 558
+INFO 2026-10-15 21:00:47,314 log 6548 27844 "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 645
+INFO 2026-10-15 21:00:47,319 log 6548 29896 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 928
+INFO 2026-10-15 21:00:50,649 log 6548 29896 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 29237
+INFO 2026-10-15 21:00:50,726 log 6548 27844 "GET /static/admin/js/calendar.js HTTP/1.1" 200 12223
+INFO 2026-10-15 21:00:50,728 log 6548 11708 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 27979
+INFO 2026-10-15 21:00:50,730 log 6548 29896 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-15 21:00:50,790 log 6548 29896 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1112
+INFO 2026-10-15 21:00:50,794 log 6548 11708 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 805
+INFO 2026-10-15 21:01:11,226 log 6548 11708 "GET /admin/auth/group/ HTTP/1.1" 200 12619
+INFO 2026-10-15 21:01:11,296 log 6548 11708 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-15 21:01:13,491 log 6548 11708 "GET /admin/account/emailaddress/ HTTP/1.1" 200 13651
+INFO 2026-10-15 21:01:13,553 log 6548 11708 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-15 21:01:15,820 log 6548 11708 "GET /admin/core/passwordreset/ HTTP/1.1" 200 12219
+INFO 2026-10-15 21:01:15,888 log 6548 11708 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-15 21:01:18,008 log 6548 11708 "GET /logout/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:01:18,027 log 6548 11708 "GET /login/ HTTP/1.1" 200 1240
+INFO 2026-10-15 21:01:18,084 log 6548 11708 "GET /static/style.css HTTP/1.1" 304 0
+INFO 2026-10-15 21:01:20,077 log 6548 11708 "GET /register/ HTTP/1.1" 200 1777
+INFO 2026-10-15 21:01:51,460 log 6548 11708 "POST /register/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:01:51,473 log 6548 11708 "GET /login/ HTTP/1.1" 200 1397
+INFO 2026-10-15 21:02:02,826 log 6548 11708 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:02:02,842 log 6548 11708 "GET / HTTP/1.1" 200 281
+INFO 2026-10-15 21:02:05,369 log 6548 11708 "GET /logout/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:02:05,390 log 6548 11708 "GET /login/ HTTP/1.1" 200 1240
+INFO 2026-10-15 21:02:08,114 log 6548 11708 "GET /admin/auth/user/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:02:08,129 log 6548 11708 "GET /admin/login/?next=/admin/auth/user/ HTTP/1.1" 200 4327
+INFO 2026-10-15 21:02:19,660 log 6548 11708 "POST /admin/login/?next=/admin/auth/user/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:02:19,689 log 6548 11708 "GET /admin/auth/user/ HTTP/1.1" 200 17212
+INFO 2026-10-15 21:02:19,748 log 6548 11708 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-15 21:02:22,275 log 6548 11708 "GET /admin/auth/user/3/change/ HTTP/1.1" 200 29508
+INFO 2026-10-15 21:02:22,337 log 6548 11708 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-15 21:02:36,034 log 6548 11708 "GET /admin/account/emailaddress/ HTTP/1.1" 200 13651
+INFO 2026-10-15 21:02:36,108 log 6548 11708 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-15 21:02:37,701 log 6548 11708 "GET /admin/auth/group/ HTTP/1.1" 200 12619
+INFO 2026-10-15 21:02:37,766 log 6548 11708 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-15 21:06:14,895 log 6548 23648 "GET / HTTP/1.1" 200 277
+INFO 2026-10-15 21:06:17,385 log 6548 23648 "GET /logout/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:06:17,406 log 6548 23648 "GET /login/ HTTP/1.1" 200 1240
+INFO 2026-10-15 21:06:18,885 log 6548 23648 "GET /accounts/google/login/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:06:28,172 log 6548 23648 "GET /accounts/google/login/callback/?error=access_denied&state=KR7a3lIj9oIkqj2S HTTP/1.1" 302 0
+INFO 2026-10-15 21:06:28,202 log 6548 23648 "GET /accounts/3rdparty/login/cancelled/ HTTP/1.1" 200 1224
+INFO 2026-10-15 21:08:00,622 log 6548 28592 "GET /accounts/login/ HTTP/1.1" 200 2595
+INFO 2026-10-15 21:08:02,126 log 6548 28592 "GET /accounts/signup/ HTTP/1.1" 200 3035
+INFO 2026-10-15 21:08:05,645 log 6548 28592 "GET /accounts/login/ HTTP/1.1" 200 2595
+INFO 2026-10-15 21:08:06,708 log 6548 28592 "GET /accounts/signup/ HTTP/1.1" 200 3035
+INFO 2026-10-15 21:08:08,389 log 6548 28592 "GET /accounts/login/ HTTP/1.1" 200 2595
+INFO 2026-10-15 21:08:09,773 log 6548 28592 "GET /accounts/login/ HTTP/1.1" 200 2595
+INFO 2026-10-15 21:08:17,376 log 6548 28592 "GET /login/ HTTP/1.1" 200 1240
+INFO 2026-10-15 21:08:21,654 log 6548 28592 "GET /accounts/google/login/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:08:26,382 log 6548 28592 "GET /accounts/google/login/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:08:44,724 log 6548 28592 "GET /accounts/google/login/callback/?error=access_denied&state=EsMdgBt69GsJAfB6 HTTP/1.1" 302 0
+INFO 2026-10-15 21:08:44,739 log 6548 28592 "GET /accounts/3rdparty/login/cancelled/ HTTP/1.1" 200 1224
+INFO 2026-10-15 21:09:27,388 log 6548 28592 "GET /forgot-password/ HTTP/1.1" 200 932
+INFO 2026-10-15 21:09:33,715 log 6548 28592 "POST /forgot-password/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:09:33,732 log 6548 28592 "GET /forgot-password/ HTTP/1.1" 200 1119
+INFO 2026-10-15 21:09:40,389 log 6548 28592 "GET /forgot-password/ HTTP/1.1" 200 932
+INFO 2026-10-15 21:09:47,607 log 6548 28592 "GET /register/ HTTP/1.1" 200 1777
+INFO 2026-10-15 21:10:10,712 log 6548 28592 "POST /register/ HTTP/1.1" 302 0
+INFO 2026-10-15 21:10:10,763 log 6548 28592 "GET /login/ HTTP/1.1" 200 1397
+INFO 2026-10-15 21:10:13,796 log 6548 28592 "GET /forgot-password/ HTTP/1.1" 200 932
+ERROR 2026-10-15 21:10:22,238 log 6548 28592 Internal Server Error: /forgot-password/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\alim\Desktop\itpm proj\ceback\core\views.py", line 105, in ForgotPassword
+    email_message.send()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\message.py", line 420, in send
+    return connection.send_messages([self])
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 191, in send_messages
+    new_conn_created = self.open()
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 137, in open
+    self._partial_connection = self.connection_class(
+                               ~~~~~~~~~~~~~~~~~~~~~^
+        self.host, self.port, **connection_params
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 263, in __init__
+    (code, msg) = self.connect(host, port)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 350, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 320, in _get_socket
+    return socket.create_connection((host, port), timeout,
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+                                    self.source_address)
+                                    ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 868, in create_connection
+    raise exceptions[0]
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 853, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+ConnectionRefusedError: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+ERROR 2026-10-15 21:10:22,249 log 6548 28592 "POST /forgot-password/ HTTP/1.1" 500 109906
+INFO 2026-10-15 21:21:52,177 autoreload 6548 22172 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-10-15 21:21:55,212 autoreload 4936 24364 Watching for file changes with StatReloader
+INFO 2026-10-15 21:21:58,338 log 4936 7184 "GET / HTTP/1.1" 302 0
+INFO 2026-10-15 21:21:58,352 log 4936 7184 "GET /login/?next=/ HTTP/1.1" 200 1258
+INFO 2026-10-15 21:21:58,396 log 4936 7184 "GET /static/style.css HTTP/1.1" 304 0
+INFO 2026-10-15 21:22:00,725 log 4936 7184 "GET /forgot-password/ HTTP/1.1" 200 932
+ERROR 2026-10-15 21:22:05,993 log 4936 7184 Internal Server Error: /forgot-password/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\alim\Desktop\itpm proj\ceback\core\views.py", line 105, in ForgotPassword
+    email_message.send()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\message.py", line 420, in send
+    return connection.send_messages([self])
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 191, in send_messages
+    new_conn_created = self.open()
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\mail\backends\smtp.py", line 146, in open
+    self._partial_connection.login(self.username, self.password)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 753, in login
+    (code, resp) = self.auth(
+                   ~~~~~~~~~^
+        authmethod, getattr(self, method_name),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        initial_response_ok=initial_response_ok)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 651, in auth
+    (code, resp) = self.docmd("AUTH", mechanism + " " + response)
+                   ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 441, in docmd
+    return self.getreply()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 414, in getreply
+    raise SMTPServerDisconnected("Connection unexpectedly closed")
+smtplib.SMTPServerDisconnected: Connection unexpectedly closed
+ERROR 2026-10-15 21:22:05,995 log 4936 7184 "POST /forgot-password/ HTTP/1.1" 500 103693
+INFO 2026-10-15 21:38:59,439 autoreload 4936 24364 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-10-15 21:39:00,032 autoreload 17744 24972 Watching for file changes with StatReloader
+INFO 2026-10-15 21:39:13,755 autoreload 17744 24972 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-10-15 21:39:14,244 autoreload 22612 12480 Watching for file changes with StatReloader
+INFO 2026-10-15 21:39:50,923 autoreload 22612 12480 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-10-15 21:39:51,362 autoreload 14024 10980 Watching for file changes with StatReloader
+INFO 2026-10-15 21:40:01,903 autoreload 14024 10980 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-10-15 21:40:02,354 autoreload 6228 12412 Watching for file changes with StatReloader
+INFO 2026-10-16 08:10:56,852 autoreload 26780 26432 Watching for file changes with StatReloader
+INFO 2026-10-16 08:11:04,857 log 26780 18704 "GET / HTTP/1.1" 302 0
+INFO 2026-10-16 08:11:04,880 log 26780 18704 "GET /login/?next=/ HTTP/1.1" 200 1258
+INFO 2026-10-16 08:11:04,901 log 26780 18704 "GET /static/style.css HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:06,155 log 26780 18704 "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-10-16 08:11:06,213 log 26780 18704 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4307
+INFO 2026-10-16 08:11:06,262 log 26780 19280 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:06,262 log 26780 18704 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:06,263 log 26780 16868 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:06,265 log 26780 12800 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:06,267 log 26780 27076 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:06,267 log 26780 4524 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:06,271 log 26780 4524 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+WARNING 2026-10-16 08:11:06,309 log 26780 4524 Not Found: /favicon.ico
+WARNING 2026-10-16 08:11:06,310 log 26780 4524 "GET /favicon.ico HTTP/1.1" 404 4312
+INFO 2026-10-16 08:11:13,930 log 26780 4524 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-10-16 08:11:14,309 log 26780 4524 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:11:14,341 log 26780 4524 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:14,351 log 26780 27076 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:14,351 log 26780 4524 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,831 log 26780 4524 "GET /admin/auth/user/ HTTP/1.1" 200 17667
+INFO 2026-10-16 08:11:16,876 log 26780 4524 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,883 log 26780 18704 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,884 log 26780 27076 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,885 log 26780 12800 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,885 log 26780 16868 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,888 log 26780 27076 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,888 log 26780 18704 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,888 log 26780 4524 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,890 log 26780 12800 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,895 log 26780 4524 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,898 log 26780 19280 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:11:16,899 log 26780 4524 "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,902 log 26780 4524 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,912 log 26780 4524 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,939 log 26780 19280 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,940 log 26780 12800 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:16,940 log 26780 4524 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:20,754 log 26780 4524 "GET /admin/auth/user/4/change/ HTTP/1.1" 200 29445
+INFO 2026-10-16 08:11:20,793 log 26780 4524 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:20,799 log 26780 16868 "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:20,800 log 26780 12800 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:20,800 log 26780 18704 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:20,801 log 26780 27076 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:20,802 log 26780 4524 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:20,805 log 26780 19280 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:11:20,805 log 26780 4524 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:20,811 log 26780 19280 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:20,860 log 26780 4524 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:20,861 log 26780 19280 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+INFO 2026-10-16 08:11:20,861 log 26780 27076 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2026-10-16 08:14:52,100 log 26780 27076 "GET /admin/auth/user/ HTTP/1.1" 200 17667
+INFO 2026-10-16 08:14:54,307 log 26780 27076 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 29237
+INFO 2026-10-16 08:14:54,347 log 26780 27076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:18:09,771 log 26780 27076 "GET /admin/auth/user/ HTTP/1.1" 200 17667
+INFO 2026-10-16 08:18:09,860 log 26780 27076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:18:14,136 log 26780 27076 "GET /admin/auth/user/4/change/ HTTP/1.1" 200 29445
+INFO 2026-10-16 08:18:14,204 log 26780 27076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:18:27,661 log 26780 27076 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 29237
+INFO 2026-10-16 08:18:27,726 log 26780 27076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:18:30,672 log 26780 27076 "GET /admin/socialaccount/socialaccount/ HTTP/1.1" 200 15055
+INFO 2026-10-16 08:18:30,738 log 26780 27076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:18:37,594 log 26780 27076 "GET /admin/auth/user/ HTTP/1.1" 200 17667
+INFO 2026-10-16 08:18:37,649 log 26780 27076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:18:43,360 log 26780 27076 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 29237
+INFO 2026-10-16 08:18:43,416 log 26780 27076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:18:45,918 log 26780 27076 "GET /admin/socialaccount/socialaccount/ HTTP/1.1" 200 15055
+INFO 2026-10-16 08:18:45,971 log 26780 27076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:18:47,330 log 26780 27076 "GET /admin/socialaccount/socialaccount/1/change/ HTTP/1.1" 200 16476
+INFO 2026-10-16 08:18:47,383 log 26780 27076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:18:58,828 log 26780 27076 "GET /admin/auth/user/ HTTP/1.1" 200 17667
+INFO 2026-10-16 08:18:58,887 log 26780 27076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:39:22,967 autoreload 27400 5132 Watching for file changes with StatReloader
+INFO 2026-10-16 08:39:27,063 log 27400 6276 "GET /admin/auth/user/ HTTP/1.1" 200 17667
+INFO 2026-10-16 08:39:27,102 log 27400 6276 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:39:27,884 log 27400 6276 "GET /admin/auth/user/ HTTP/1.1" 200 17667
+INFO 2026-10-16 08:39:27,923 log 27400 6276 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:39:28,457 log 27400 6276 "GET /admin/auth/user/ HTTP/1.1" 200 17667
+INFO 2026-10-16 08:39:28,512 log 27400 6276 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:39:29,741 log 27400 6276 "GET /admin/auth/user/ HTTP/1.1" 200 17667
+INFO 2026-10-16 08:39:29,794 log 27400 6276 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:39:35,966 log 27400 6276 "GET /admin/core/passwordreset/ HTTP/1.1" 200 14026
+INFO 2026-10-16 08:39:36,020 log 27400 6276 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 08:47:05,085 autoreload 6928 17604 Watching for file changes with StatReloader
+INFO 2026-10-16 08:49:16,249 autoreload 6928 17604 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-10-16 08:49:16,885 autoreload 12112 12884 Watching for file changes with StatReloader
+INFO 2026-10-16 08:49:34,414 autoreload 12112 12884 C:\Users\alim\Desktop\itpm proj\ceback\roles\signals.py changed, reloading.
+INFO 2026-10-16 08:49:35,210 autoreload 5880 26460 Watching for file changes with StatReloader
+INFO 2026-10-16 08:49:41,490 log 5880 12096 "GET / HTTP/1.1" 200 277
+INFO 2026-10-16 08:49:46,516 log 5880 12096 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:50:18,043 autoreload 11948 13248 Watching for file changes with StatReloader
+INFO 2026-10-16 08:50:22,237 log 11948 17348 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:50:24,825 log 11948 17348 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:11,240 autoreload 20716 23572 Watching for file changes with StatReloader
+INFO 2026-10-16 08:51:16,376 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:16,983 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:17,314 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:17,568 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:17,792 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:17,961 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:18,141 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:18,402 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:18,729 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:20,032 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:21,001 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:21,466 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:22,258 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:22,794 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:23,011 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:51:23,311 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:53:52,121 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:53:52,580 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:53:52,858 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:53:53,005 log 20716 9464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:54:50,123 autoreload 13160 3884 Watching for file changes with StatReloader
+INFO 2026-10-16 08:55:17,956 log 13160 26464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:55:19,388 log 13160 26464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:55:19,770 log 13160 26464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:59:26,829 log 13160 26464 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 08:59:53,391 autoreload 17908 24296 Watching for file changes with StatReloader
+INFO 2026-10-16 09:00:07,795 autoreload 20044 2320 Watching for file changes with StatReloader
+INFO 2026-10-16 09:00:11,029 log 20044 13248 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 09:00:11,443 log 20044 13248 "GET /admin/ HTTP/1.1" 200 12515
+INFO 2026-10-16 09:00:40,427 autoreload 20044 2320 C:\Users\alim\Desktop\itpm proj\ceback\roles\admin.py changed, reloading.
+INFO 2026-10-16 09:00:41,106 autoreload 24864 10516 Watching for file changes with StatReloader
+INFO 2026-10-16 09:00:55,627 autoreload 24864 10516 C:\Users\alim\Desktop\itpm proj\ceback\roles\admin.py changed, reloading.
+INFO 2026-10-16 09:00:56,377 autoreload 19812 19644 Watching for file changes with StatReloader
+INFO 2026-10-16 09:01:11,489 autoreload 15628 27368 Watching for file changes with StatReloader
+INFO 2026-10-16 09:01:15,090 log 15628 19212 "GET /admin/ HTTP/1.1" 200 14111
+INFO 2026-10-16 09:01:51,125 autoreload 15628 27368 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-10-16 09:01:51,768 autoreload 872 15928 Watching for file changes with StatReloader
+INFO 2026-10-16 09:02:34,789 autoreload 872 15928 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-10-16 09:02:35,603 autoreload 3600 9312 Watching for file changes with StatReloader
+INFO 2026-10-16 09:02:38,185 log 3600 22892 "GET /admin/ HTTP/1.1" 200 14097
+INFO 2026-10-16 09:02:41,342 log 3600 22892 "GET /admin/roles/doctor/ HTTP/1.1" 200 13405
+INFO 2026-10-16 09:02:41,414 log 3600 22892 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:02:43,803 log 3600 22892 "GET /admin/roles/doctor/add/ HTTP/1.1" 200 17639
+INFO 2026-10-16 09:02:43,858 log 3600 22892 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:02:59,960 log 3600 22892 "POST /admin/roles/doctor/add/ HTTP/1.1" 200 17903
+INFO 2026-10-16 09:03:00,032 log 3600 22892 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:03:25,951 log 3600 22892 "POST /admin/roles/doctor/add/ HTTP/1.1" 302 0
+INFO 2026-10-16 09:03:25,998 log 3600 22892 "GET /admin/roles/doctor/ HTTP/1.1" 200 14935
+INFO 2026-10-16 09:03:26,050 log 3600 22892 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:03:26,068 log 3600 22892 "GET /static/admin/img/icon-yes-dark.svg HTTP/1.1" 304 0
+INFO 2026-10-16 09:03:28,181 log 3600 22892 "GET /admin/roles/doctor/1/change/ HTTP/1.1" 200 17913
+INFO 2026-10-16 09:03:28,237 log 3600 22892 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:03:40,164 autoreload 3600 9312 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-10-16 09:03:41,025 autoreload 16376 24456 Watching for file changes with StatReloader
+INFO 2026-10-16 09:03:43,729 log 16376 17076 "GET /admin/roles/doctor/add/ HTTP/1.1" 200 17613
+INFO 2026-10-16 09:03:43,793 log 16376 17076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:03:51,644 log 16376 17076 "POST /admin/roles/doctor/add/ HTTP/1.1" 200 17996
+INFO 2026-10-16 09:03:51,705 log 16376 17076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+ERROR 2026-10-16 09:04:03,700 log 16376 17076 Internal Server Error: /admin/roles/doctor/add/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 359, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: roles_doctor.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 776, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 191, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 189, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\cache.py", line 79, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\sites.py", line 248, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 2249, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 47, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 191, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 189, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 2066, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 2152, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 1475, in save_model
+    obj.save()
+    ~~~~~~~~^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 904, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 996, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1201, in _save_table
+    results = self._do_insert(
+        cls._base_manager, using, insert_fields, returning_fields, raw
+    )
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1253, in _do_insert
+    return manager._insert(
+           ~~~~~~~~~~~~~~~^
+        [self],
+        ^^^^^^^
+    ...<3 lines>...
+        raw=raw,
+        ^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 2166, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\compiler.py", line 1954, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\utils.py", line 94, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 359, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: roles_doctor.user_id
+ERROR 2026-10-16 09:04:03,718 log 16376 17076 "POST /admin/roles/doctor/add/ HTTP/1.1" 500 212668
+INFO 2026-10-16 09:04:57,626 autoreload 16376 24456 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-10-16 09:04:58,493 autoreload 2152 6568 Watching for file changes with StatReloader
+INFO 2026-10-16 09:05:02,549 log 2152 22624 "GET /admin/roles/doctor/add/ HTTP/1.1" 200 17613
+ERROR 2026-10-16 09:05:08,398 log 2152 22624 Internal Server Error: /admin/roles/doctor/add/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 359, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: roles_doctor.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 776, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 191, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 189, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\cache.py", line 79, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\sites.py", line 248, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 2249, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 47, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 191, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 189, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 2066, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 2152, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 1475, in save_model
+    obj.save()
+    ~~~~~~~~^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 904, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 996, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1201, in _save_table
+    results = self._do_insert(
+        cls._base_manager, using, insert_fields, returning_fields, raw
+    )
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1253, in _do_insert
+    return manager._insert(
+           ~~~~~~~~~~~~~~~^
+        [self],
+        ^^^^^^^
+    ...<3 lines>...
+        raw=raw,
+        ^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 2166, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\compiler.py", line 1954, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\utils.py", line 94, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 359, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: roles_doctor.user_id
+ERROR 2026-10-16 09:05:08,420 log 2152 22624 "POST /admin/roles/doctor/add/ HTTP/1.1" 500 212442
+INFO 2026-10-16 09:07:35,925 log 2152 22624 "GET /admin/roles/doctor/add/ HTTP/1.1" 200 17613
+INFO 2026-10-16 09:07:37,745 log 2152 22624 "GET /admin/auth/user/ HTTP/1.1" 200 18911
+INFO 2026-10-16 09:07:37,814 log 2152 22624 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:07:39,839 log 2152 22624 "GET /admin/auth/user/add/ HTTP/1.1" 200 17704
+INFO 2026-10-16 09:07:39,911 log 2152 22624 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:07:40,038 log 2152 24892 "GET /static/admin/css/unusable_password_field.css HTTP/1.1" 200 667
+INFO 2026-10-16 09:07:51,100 log 2152 24892 "POST /admin/auth/user/add/ HTTP/1.1" 200 18052
+INFO 2026-10-16 09:07:51,158 log 2152 24892 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+ERROR 2026-10-16 09:08:18,383 log 2152 24892 Internal Server Error: /admin/auth/user/add/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 776, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 191, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 189, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\cache.py", line 79, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\sites.py", line 248, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 47, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\debug.py", line 142, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 191, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 189, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\admin.py", line 119, in add_view
+    return self._add_view(request, form_url, extra_context)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\admin.py", line 147, in _add_view
+    return super().add_view(request, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 2249, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 47, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 191, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 189, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 2066, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 2152, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 1475, in save_model
+    obj.save()
+    ~~~~~~~~^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\base_user.py", line 62, in save
+    super().save(**kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 904, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1011, in save_base
+    post_save.send(
+    ~~~~~~~~~~~~~~^
+        sender=origin,
+        ^^^^^^^^^^^^^^
+    ...<4 lines>...
+        using=using,
+        ^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\dispatch\dispatcher.py", line 249, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\alim\Desktop\itpm proj\ceback\roles\signals.py", line 19, in create_client_profile
+    Client.objects.create(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        user=instance,
+        ^^^^^^^^^^^^^^
+    ...<5 lines>...
+        email=instance.email,
+        ^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 750, in create
+    obj = self.model(**kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 610, in __init__
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: Client() got unexpected keyword arguments: 'full_name'
+ERROR 2026-10-16 09:08:18,394 log 2152 24892 "POST /admin/auth/user/add/ HTTP/1.1" 500 200360
+INFO 2026-10-16 09:09:01,078 autoreload 2152 6568 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-10-16 09:09:02,013 autoreload 10960 14372 Watching for file changes with StatReloader
+INFO 2026-10-16 09:10:26,237 autoreload 10960 14372 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-10-16 09:10:26,971 autoreload 6112 4376 Watching for file changes with StatReloader
+INFO 2026-10-16 09:10:34,039 log 6112 25628 "GET /admin/auth/user/add/ HTTP/1.1" 200 17704
+ERROR 2026-10-16 09:10:44,141 log 6112 25628 Internal Server Error: /admin/auth/user/add/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 359, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: table roles_client has no column named full_name
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 199, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 776, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 191, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 189, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\cache.py", line 79, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\sites.py", line 248, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 47, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\debug.py", line 142, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 191, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 189, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\admin.py", line 119, in add_view
+    return self._add_view(request, form_url, extra_context)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\admin.py", line 147, in _add_view
+    return super().add_view(request, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 2249, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 47, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 191, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\decorators.py", line 189, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 2066, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 2152, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\admin\options.py", line 1475, in save_model
+    obj.save()
+    ~~~~~~~~^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\auth\base_user.py", line 62, in save
+    super().save(**kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 904, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1011, in save_base
+    post_save.send(
+    ~~~~~~~~~~~~~~^
+        sender=origin,
+        ^^^^^^^^^^^^^^
+    ...<4 lines>...
+        using=using,
+        ^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\dispatch\dispatcher.py", line 249, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\alim\Desktop\itpm proj\ceback\roles\signals.py", line 19, in create_client_profile
+    Client.objects.create(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        user=instance,
+        ^^^^^^^^^^^^^^
+    ...<5 lines>...
+        email=instance.email,
+        ^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 752, in create
+    obj.save(force_insert=True, using=self.db)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 904, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 996, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1201, in _save_table
+    results = self._do_insert(
+        cls._base_manager, using, insert_fields, returning_fields, raw
+    )
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1253, in _do_insert
+    return manager._insert(
+           ~~~~~~~~~~~~~~~^
+        [self],
+        ^^^^^^^
+    ...<3 lines>...
+        raw=raw,
+        ^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 2166, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\compiler.py", line 1954, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\utils.py", line 94, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 359, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: table roles_client has no column named full_name
+ERROR 2026-10-16 09:10:44,163 log 6112 25628 "POST /admin/auth/user/add/ HTTP/1.1" 500 276898
+INFO 2026-10-16 09:12:55,208 autoreload 5924 6876 Watching for file changes with StatReloader
+INFO 2026-10-16 09:12:59,418 log 5924 7224 "GET /admin/auth/user/add/ HTTP/1.1" 200 17704
+INFO 2026-10-16 09:13:10,685 log 5924 7224 "POST /admin/auth/user/add/ HTTP/1.1" 200 17934
+INFO 2026-10-16 09:13:10,750 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:13:22,621 log 5924 7224 "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 2026-10-16 09:13:22,704 log 5924 7224 "GET /admin/auth/user/5/change/ HTTP/1.1" 200 32100
+INFO 2026-10-16 09:13:22,759 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:13:25,287 log 5924 7224 "GET /admin/auth/user/ HTTP/1.1" 200 19347
+INFO 2026-10-16 09:13:25,338 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:13:29,396 log 5924 7224 "GET /admin/roles/client/ HTTP/1.1" 200 14705
+INFO 2026-10-16 09:13:29,456 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:13:31,504 log 5924 7224 "GET /admin/roles/client/1/change/ HTTP/1.1" 200 17214
+INFO 2026-10-16 09:13:31,555 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:14:00,452 log 5924 7224 "GET /admin/auth/user/ HTTP/1.1" 200 19347
+INFO 2026-10-16 09:14:00,509 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:14:02,176 log 5924 7224 "GET /admin/auth/user/5/change/ HTTP/1.1" 200 31882
+INFO 2026-10-16 09:14:02,233 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:14:19,061 log 5924 7224 "GET /admin/auth/user/add/ HTTP/1.1" 200 17704
+INFO 2026-10-16 09:14:19,121 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:14:44,685 log 5924 7224 "GET /admin/roles/client/ HTTP/1.1" 200 14705
+INFO 2026-10-16 09:14:44,751 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:14:47,102 log 5924 7224 "GET /admin/roles/doctor/ HTTP/1.1" 200 14729
+INFO 2026-10-16 09:14:47,170 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:14:50,134 log 5924 7224 "GET /admin/roles/client/ HTTP/1.1" 200 14705
+INFO 2026-10-16 09:14:50,189 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:18:17,062 log 5924 7224 "GET /admin/roles/doctor/ HTTP/1.1" 200 14729
+INFO 2026-10-16 09:18:17,109 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:18:18,832 log 5924 7224 "GET /admin/roles/doctor/add/ HTTP/1.1" 200 17637
+INFO 2026-10-16 09:18:18,864 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:18:26,191 log 5924 7224 "POST /admin/roles/doctor/add/ HTTP/1.1" 302 0
+INFO 2026-10-16 09:18:26,211 log 5924 7224 "GET /admin/roles/doctor/ HTTP/1.1" 200 15202
+INFO 2026-10-16 09:18:26,246 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:18:31,499 log 5924 7224 "GET /admin/auth/user/ HTTP/1.1" 200 19797
+INFO 2026-10-16 09:18:31,528 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:18:35,633 log 5924 7224 "GET /admin/auth/user/6/change/ HTTP/1.1" 200 31926
+INFO 2026-10-16 09:18:35,664 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:18:43,691 log 5924 7224 "GET /admin/roles/doctor/ HTTP/1.1" 200 15000
+INFO 2026-10-16 09:18:43,722 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:18:45,941 log 5924 7224 "GET /admin/roles/doctor/2/change/ HTTP/1.1" 200 17918
+INFO 2026-10-16 09:18:45,975 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:18:57,714 log 5924 7224 "GET /admin/auth/user/ HTTP/1.1" 200 19797
+INFO 2026-10-16 09:18:57,753 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:19:04,778 log 5924 7224 "GET /admin/roles/client/ HTTP/1.1" 200 14968
+INFO 2026-10-16 09:19:04,810 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:19:08,786 log 5924 7224 "GET /admin/roles/doctor/ HTTP/1.1" 200 15000
+INFO 2026-10-16 09:19:08,821 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:19:11,037 log 5924 7224 "GET /admin/roles/doctor/ HTTP/1.1" 200 15000
+INFO 2026-10-16 09:19:11,066 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:19:12,866 log 5924 7224 "GET /admin/roles/client/ HTTP/1.1" 200 14968
+INFO 2026-10-16 09:19:12,898 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:19:16,318 log 5924 7224 "GET /admin/roles/client/2/change/ HTTP/1.1" 200 17269
+INFO 2026-10-16 09:19:16,352 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:21:30,274 log 5924 7224 "GET /admin/auth/user/ HTTP/1.1" 200 19797
+INFO 2026-10-16 09:21:30,308 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:21:37,826 log 5924 7224 "GET /admin/auth/user/?q=cua HTTP/1.1" 200 18337
+INFO 2026-10-16 09:21:37,857 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:21:45,261 log 5924 7224 "GET /admin/roles/doctor/ HTTP/1.1" 200 15000
+INFO 2026-10-16 09:21:45,292 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:21:47,524 log 5924 7224 "GET /admin/roles/doctor/2/change/ HTTP/1.1" 200 17918
+INFO 2026-10-16 09:21:47,555 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:21:55,314 log 5924 7224 "GET /admin/roles/client/ HTTP/1.1" 200 14968
+INFO 2026-10-16 09:21:55,348 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:21:56,786 log 5924 7224 "GET /admin/roles/doctor/ HTTP/1.1" 200 15000
+INFO 2026-10-16 09:21:56,817 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:22:01,058 log 5924 7224 "GET /admin/roles/client/ HTTP/1.1" 200 14968
+INFO 2026-10-16 09:22:01,089 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:22:01,966 log 5924 7224 "GET /admin/roles/doctor/ HTTP/1.1" 200 15000
+INFO 2026-10-16 09:22:01,994 log 5924 7224 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:29:25,081 autoreload 5924 6876 C:\Users\alim\Desktop\itpm proj\ceback\roles\signals.py changed, reloading.
+INFO 2026-10-16 09:29:25,523 autoreload 14616 26844 Watching for file changes with StatReloader
+INFO 2026-10-16 09:29:42,943 autoreload 14616 26844 C:\Users\alim\Desktop\itpm proj\ceback\roles\signals.py changed, reloading.
+INFO 2026-10-16 09:29:43,343 autoreload 16908 17536 Watching for file changes with StatReloader
+INFO 2026-10-16 09:29:58,704 autoreload 16908 17536 C:\Users\alim\Desktop\itpm proj\ceback\roles\signals.py changed, reloading.
+INFO 2026-10-16 09:29:59,152 autoreload 3508 23976 Watching for file changes with StatReloader
+INFO 2026-10-16 09:30:07,721 autoreload 3508 23976 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-10-16 09:30:08,231 autoreload 7728 3908 Watching for file changes with StatReloader
+INFO 2026-10-16 09:30:36,681 autoreload 17984 21704 Watching for file changes with StatReloader
+INFO 2026-10-16 09:30:44,888 log 17984 3920 "GET /admin/roles/doctor/add/ HTTP/1.1" 200 17702
+INFO 2026-10-16 09:30:44,923 log 17984 3920 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:33:07,685 log 17984 3920 "GET /admin/roles/doctor/ HTTP/1.1" 200 15000
+INFO 2026-10-16 09:33:07,715 log 17984 3920 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:33:09,388 log 17984 3920 "GET /admin/roles/client/ HTTP/1.1" 200 14968
+INFO 2026-10-16 09:33:09,419 log 17984 3920 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:33:11,542 log 17984 3920 "GET /admin/roles/doctor/ HTTP/1.1" 200 15000
+INFO 2026-10-16 09:33:11,570 log 17984 3920 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 09:34:36,775 autoreload 17984 21704 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-10-16 09:34:37,271 autoreload 20020 11124 Watching for file changes with StatReloader
+INFO 2026-10-16 09:34:46,904 autoreload 20020 11124 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-10-16 09:34:47,413 autoreload 22868 26176 Watching for file changes with StatReloader
+INFO 2026-10-16 09:34:57,998 autoreload 22868 26176 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-10-16 09:34:58,463 autoreload 27448 23184 Watching for file changes with StatReloader
+INFO 2026-10-16 14:59:26,401 autoreload 16744 23716 Watching for file changes with StatReloader
+INFO 2026-10-16 14:59:28,530 log 16744 18072 "GET / HTTP/1.1" 200 277
+WARNING 2026-10-16 14:59:29,141 log 16744 18072 Not Found: /favicon.ico
+WARNING 2026-10-16 14:59:29,143 log 16744 18072 "GET /favicon.ico HTTP/1.1" 404 4312
+INFO 2026-10-16 14:59:32,535 log 16744 18072 "GET /admin/ HTTP/1.1" 200 15723
+INFO 2026-10-16 14:59:32,559 log 16744 18072 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:32,560 log 16744 2948 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:32,561 log 16744 8280 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:32,581 log 16744 8280 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:32,583 log 16744 2948 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:32,584 log 16744 18072 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:32,591 log 16744 18072 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:32,603 log 16744 18072 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:32,603 log 16744 2948 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:36,205 log 16744 18072 "GET /admin/roles/manager/ HTTP/1.1" 200 15162
+INFO 2026-10-16 14:59:36,251 log 16744 18072 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:36,255 log 16744 8280 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:36,256 log 16744 2948 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:36,257 log 16744 23676 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:36,264 log 16744 6756 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:36,266 log 16744 8280 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:36,267 log 16744 2948 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:36,268 log 16744 1736 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:36,268 log 16744 23676 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:36,274 log 16744 1736 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:36,274 log 16744 18072 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 14:59:36,278 log 16744 18072 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:36,297 log 16744 1736 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:36,298 log 16744 18072 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:41,574 log 16744 18072 "GET /admin/roles/doctor/ HTTP/1.1" 200 15420
+INFO 2026-10-16 14:59:41,643 log 16744 18072 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 14:59:43,256 log 16744 18072 "GET /admin/roles/manager/ HTTP/1.1" 200 15162
+INFO 2026-10-16 14:59:43,307 log 16744 18072 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 14:59:45,087 log 16744 18072 "GET /admin/roles/manager/add/ HTTP/1.1" 200 18128
+INFO 2026-10-16 14:59:45,143 log 16744 1736 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:45,144 log 16744 2948 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:45,144 log 16744 18072 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:45,150 log 16744 23676 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 14:59:45,151 log 16744 18072 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2026-10-16 14:59:49,803 log 16744 19540 "GET /admin/roles/manager/ HTTP/1.1" 200 15162
+INFO 2026-10-16 14:59:49,870 log 16744 19540 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 15:00:04,641 autoreload 16744 23716 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-10-16 15:00:05,392 autoreload 24788 6188 Watching for file changes with StatReloader
+INFO 2026-10-16 15:00:07,387 log 24788 18028 "GET /admin/roles/manager/ HTTP/1.1" 200 15165
+INFO 2026-10-16 15:00:07,432 log 24788 18028 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 15:00:43,301 autoreload 24788 6188 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-10-16 15:00:43,929 autoreload 18876 6364 Watching for file changes with StatReloader
+INFO 2026-10-16 15:00:56,698 autoreload 18876 6364 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-10-16 15:00:57,311 autoreload 24260 13600 Watching for file changes with StatReloader
+INFO 2026-10-16 15:01:30,240 log 24260 18924 "GET /admin/roles/doctor/ HTTP/1.1" 200 15420
+INFO 2026-10-16 15:01:30,292 log 24260 18924 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 15:02:40,534 autoreload 24260 13600 C:\Users\alim\Desktop\itpm proj\ceback\roles\admin.py changed, reloading.
+INFO 2026-10-16 15:02:41,479 autoreload 14080 27080 Watching for file changes with StatReloader
+INFO 2026-10-16 15:03:11,304 autoreload 14080 27080 C:\Users\alim\Desktop\itpm proj\ceback\roles\admin.py changed, reloading.
+INFO 2026-10-16 15:03:12,046 autoreload 12936 16272 Watching for file changes with StatReloader
+INFO 2026-10-16 15:04:00,857 autoreload 12936 16272 C:\Users\alim\Desktop\itpm proj\ceback\roles\admin.py changed, reloading.
+INFO 2026-10-16 15:04:01,345 autoreload 25712 19328 Watching for file changes with StatReloader
+INFO 2026-10-16 15:04:08,684 autoreload 25712 19328 C:\Users\alim\Desktop\itpm proj\ceback\roles\admin.py changed, reloading.
+INFO 2026-10-16 15:04:09,262 autoreload 2916 17992 Watching for file changes with StatReloader
+INFO 2026-10-16 15:04:13,365 log 2916 15688 "GET /admin/roles/doctor/ HTTP/1.1" 200 17886
+INFO 2026-10-16 15:04:13,396 log 2916 18412 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2026-10-16 15:04:13,399 log 2916 15688 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 15:04:15,726 log 2916 15688 "GET /admin/roles/doctor/ HTTP/1.1" 200 17886
+INFO 2026-10-16 15:04:15,774 log 2916 15688 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 15:04:22,000 log 2916 15688 "GET /admin/roles/doctor/add/ HTTP/1.1" 200 18472
+INFO 2026-10-16 15:04:22,053 log 2916 15688 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-10-16 15:04:22,403 log 2916 8040 "GET /static/admin/css/autocomplete.css HTTP/1.1" 200 9583
+INFO 2026-10-16 15:04:22,405 log 2916 22016 "GET /static/admin/js/autocomplete.js HTTP/1.1" 200 1066
+INFO 2026-10-16 15:04:22,411 log 2916 2148 "GET /static/admin/js/vendor/select2/select2.full.js HTTP/1.1" 200 173566
+INFO 2026-10-16 15:04:22,412 log 2916 18412 "GET /static/admin/css/vendor/select2/select2.css HTTP/1.1" 200 17358
+INFO 2026-10-16 15:04:22,414 log 2916 21044 "GET /static/admin/js/vendor/select2/i18n/en.js HTTP/1.1" 200 844
+INFO 2026-10-16 15:04:23,615 log 2916 21044 "GET /admin/autocomplete/?app_label=roles&model_name=doctor&field_name=user HTTP/1.1" 200 227
+INFO 2026-10-16 15:04:25,951 log 2916 21044 "GET /admin/autocomplete/?term=u&app_label=roles&model_name=doctor&field_name=user HTTP/1.1" 200 165
+INFO 2026-10-16 15:04:26,280 log 2916 21044 "GET /admin/autocomplete/?term=un&app_label=roles&model_name=doctor&field_name=user HTTP/1.1" 200 101
+INFO 2026-10-16 15:04:26,960 log 2916 21044 "GET /admin/autocomplete/?term=&app_label=roles&model_name=doctor&field_name=user HTTP/1.1" 200 227
+INFO 2026-10-16 15:06:44,047 autoreload 2916 17992 C:\Users\alim\Desktop\itpm proj\ceback\roles\admin.py changed, reloading.
+INFO 2026-10-16 15:06:44,560 autoreload 19868 11760 Watching for file changes with StatReloader
+INFO 2026-10-16 15:07:34,289 log 19868 10096 "GET / HTTP/1.1" 200 277
+INFO 2026-10-16 15:07:36,598 log 19868 10096 "GET /logout/ HTTP/1.1" 302 0
+INFO 2026-10-16 15:07:36,608 log 19868 10096 "GET /login/ HTTP/1.1" 200 1240
+INFO 2026-10-16 15:07:36,639 log 19868 10096 "GET /static/style.css HTTP/1.1" 304 0
+INFO 2026-10-16 15:07:43,451 log 19868 10096 "GET /register/ HTTP/1.1" 200 1777
+INFO 2026-10-16 15:07:47,448 log 19868 10096 "GET /forgot-password/ HTTP/1.1" 200 932
+INFO 2026-10-16 15:09:54,843 log 19868 16408 "GET /accounts/google/login/ HTTP/1.1" 302 0
