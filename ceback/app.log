@@ -1328,3 +1328,12 @@ INFO 2026-11-09 18:07:10,644 autoreload 20508 26080 Watching for file changes wi
 INFO 2026-11-09 18:08:45,094 autoreload 20508 26080 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
 INFO 2026-11-09 18:08:46,245 autoreload 28952 6424 Watching for file changes with StatReloader
 INFO 2026-11-09 19:16:31,379 autoreload 12624 21316 Watching for file changes with StatReloader
+INFO 2026-11-09 19:20:36,175 autoreload 11424 26076 Watching for file changes with StatReloader
+INFO 2026-11-09 19:20:38,602 runserver 11424 18560 [mHTTP GET /login/ 200 [0.07, 127.0.0.1:62734][0m
+WARNING 2026-11-09 19:20:38,741 log 11424 22892 Not Found: /favicon.ico
+WARNING 2026-11-09 19:20:38,742 runserver 11424 18560 [33mHTTP GET /favicon.ico 404 [0.02, 127.0.0.1:62734][0m
+INFO 2026-11-09 19:20:45,563 runserver 11424 18560 [32mHTTP POST /login/ 302 [1.21, 127.0.0.1:62734][0m
+INFO 2026-11-09 19:20:45,586 runserver 11424 18560 [mHTTP GET / 200 [0.02, 127.0.0.1:62734][0m
+INFO 2026-11-09 19:20:56,936 runserver 11424 18560 [mHTTP GET /api/notifications/ 200 [0.23, 127.0.0.1:62734][0m
+INFO 2026-11-09 19:24:08,620 autoreload 11424 26076 C:\Users\alim\Desktop\itpm proj\ceback\roles\admin.py changed, reloading.
+INFO 2026-11-09 19:24:10,906 autoreload 4304 6288 Watching for file changes with StatReloader
