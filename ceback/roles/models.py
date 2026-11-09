@@ -119,11 +119,47 @@ class Booking(models.Model):
   created_at = models.DateTimeField(
       auto_now_add=True, verbose_name='Book Date'
   )
+  is_confirmed = models.BooleanField(
+    default=False, verbose_name='Confirmed'
+  )
 
   class Meta:
     unique_together = ('client', 'slot')
-    verbose_name = 'Booking'
-    verbose_name_plural = 'Bookings'
+    constraints = [
+        models.UniqueConstraint(
+            fields=['slot'],
+            condition=models.Q(is_confirmed=True),
+            name='one_confirmed_booking_per_slot',
+        ),
+  ]
 
   def __str__(self):
     return f'Book #{self.id} - {self.client.full_name} for {self.slot}'
+
+class Notification(models.Model):
+
+  class Kind(models.TextChoices):
+    CONFIRMED = 'confirmed', 'Booking confirmed'
+    PROMOTED = 'promoted', 'Promoted from queue'
+    REPLACED = 'replaced', 'Replaced by manager'
+    CANCELLED = 'cancelled', 'Booking cancelled'
+
+  user = models.ForeignKey(
+      User, on_delete=models.CASCADE, related_name='notifications'
+  )
+  kind = models.CharField(max_length=20, choices=Kind.choices)
+  text = models.CharField(max_length=500)
+  booking = models.ForeignKey(
+      Booking, null=True, blank=True, on_delete=models.SET_NULL,
+      related_name='notifications',
+  )
+  slot = models.ForeignKey(
+      Slot, null=True, blank=True, on_delete=models.SET_NULL,
+      related_name='notifications',
+  )
+  is_read = models.BooleanField(default=False)
+  created_at = models.DateTimeField(auto_now_add=True)
+
+  class Meta:
+    ordering = ['-created_at', '-id']
+    indexes = [models.Index(fields=['user', 'is_read'])]

@@ -3,3 +3,6 @@ django-allauth==65.19.7
 django-cors-headers==4.9.0
 djangorestframework==3.18.0
 djangorestframework_simplejwt==5.5.1
+daphne==4.2.3
+channels==4.3.2
+channels_redis==4.3.0

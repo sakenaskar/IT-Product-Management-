@@ -1174,3 +1174,157 @@ INFO 2026-10-16 15:07:36,639 log 19868 10096 "GET /static/style.css HTTP/1.1" 30
 INFO 2026-10-16 15:07:43,451 log 19868 10096 "GET /register/ HTTP/1.1" 200 1777
 INFO 2026-10-16 15:07:47,448 log 19868 10096 "GET /forgot-password/ HTTP/1.1" 200 932
 INFO 2026-10-16 15:09:54,843 log 19868 16408 "GET /accounts/google/login/ HTTP/1.1" 302 0
+INFO 2026-10-19 12:19:13,324 autoreload 3824 17012 Watching for file changes with StatReloader
+INFO 2026-10-19 12:19:33,145 autoreload 11352 21832 Watching for file changes with StatReloader
+INFO 2026-10-19 12:19:35,713 log 11352 21896 "GET / HTTP/1.1" 302 0
+INFO 2026-10-19 12:19:35,727 log 11352 21896 "GET /login/?next=/ HTTP/1.1" 200 1258
+INFO 2026-10-19 12:19:35,750 log 11352 21896 "GET /static/style.css HTTP/1.1" 304 0
+WARNING 2026-10-19 12:19:36,164 log 11352 21896 Not Found: /favicon.ico
+WARNING 2026-10-19 12:19:36,165 log 11352 21896 "GET /favicon.ico HTTP/1.1" 404 4312
+INFO 2026-10-19 12:19:43,454 log 11352 21896 "GET /register/ HTTP/1.1" 200 1777
+INFO 2026-10-19 12:19:46,714 log 11352 21896 "GET /login/ HTTP/1.1" 200 1240
+INFO 2026-10-19 12:19:48,322 log 11352 21896 "GET /forgot-password/ HTTP/1.1" 200 932
+INFO 2026-11-09 17:13:00,849 autoreload 12124 14476 Watching for file changes with StatReloader
+INFO 2026-11-09 17:13:09,155 autoreload 12124 14476 C:\Users\alim\Desktop\itpm proj\ceback\ceback\urls.py changed, reloading.
+INFO 2026-11-09 17:13:09,918 autoreload 10840 19552 Watching for file changes with StatReloader
+INFO 2026-11-09 17:15:24,094 autoreload 10840 19552 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 17:15:24,950 autoreload 2996 20892 Watching for file changes with StatReloader
+INFO 2026-11-09 17:16:06,488 autoreload 2996 20892 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 17:16:07,385 autoreload 9832 3480 Watching for file changes with StatReloader
+INFO 2026-11-09 17:16:34,267 autoreload 9832 3480 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 17:16:35,173 autoreload 20428 16336 Watching for file changes with StatReloader
+INFO 2026-11-09 17:17:03,902 autoreload 20428 16336 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 17:17:04,611 autoreload 17348 13424 Watching for file changes with StatReloader
+INFO 2026-11-09 17:17:53,820 autoreload 17348 13424 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 17:17:54,611 autoreload 19660 18672 Watching for file changes with StatReloader
+INFO 2026-11-09 17:18:28,863 autoreload 19660 18672 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 17:18:29,557 autoreload 6552 15404 Watching for file changes with StatReloader
+INFO 2026-11-09 17:22:00,181 log 6552 20328 "GET / HTTP/1.1" 302 0
+INFO 2026-11-09 17:22:00,197 log 6552 20328 "GET /login/?next=/ HTTP/1.1" 200 1258
+INFO 2026-11-09 17:22:00,294 log 6552 20328 "GET /static/style.css HTTP/1.1" 200 4102
+WARNING 2026-11-09 17:22:00,862 log 6552 20328 Not Found: /favicon.ico
+WARNING 2026-11-09 17:22:00,864 log 6552 20328 "GET /favicon.ico HTTP/1.1" 404 4459
+INFO 2026-11-09 17:22:16,579 log 6552 20328 "POST /login/?next=/ HTTP/1.1" 302 0
+INFO 2026-11-09 17:22:16,605 log 6552 20328 "GET / HTTP/1.1" 200 277
+INFO 2026-11-09 17:22:58,648 log 6552 20328 "GET /api/clients HTTP/1.1" 301 0
+ERROR 2026-11-09 17:22:58,691 log 6552 20328 Internal Server Error: /api/clients/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 222, in _get_response
+    response = response.render()
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\renderers.py", line 760, in render
+    template = loader.get_template(self.template)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+ERROR 2026-11-09 17:22:58,695 log 6552 20328 "GET /api/clients/ HTTP/1.1" 500 86839
+ERROR 2026-11-09 17:30:31,527 log 6552 12304 Internal Server Error: /api/clients/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 222, in _get_response
+    response = response.render()
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\renderers.py", line 760, in render
+    template = loader.get_template(self.template)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+ERROR 2026-11-09 17:30:31,531 log 6552 12304 "GET /api/clients/ HTTP/1.1" 500 86839
+ERROR 2026-11-09 17:30:34,104 log 6552 12304 Internal Server Error: /api/clients/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 222, in _get_response
+    response = response.render()
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\renderers.py", line 760, in render
+    template = loader.get_template(self.template)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+ERROR 2026-11-09 17:30:34,106 log 6552 12304 "GET /api/clients/ HTTP/1.1" 500 86839
+INFO 2026-11-09 17:31:10,495 log 6552 12304 "GET /login/ HTTP/1.1" 200 1240
+INFO 2026-11-09 17:31:40,483 log 6552 12304 "GET /api/doctors HTTP/1.1" 301 0
+ERROR 2026-11-09 17:31:40,516 log 6552 12304 Internal Server Error: /api/doctors/
+Traceback (most recent call last):
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 222, in _get_response
+    response = response.render()
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\renderers.py", line 760, in render
+    template = loader.get_template(self.template)
+  File "C:\Users\alim\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+ERROR 2026-11-09 17:31:40,520 log 6552 12304 "GET /api/doctors/ HTTP/1.1" 500 86767
+INFO 2026-11-09 17:34:19,291 autoreload 6552 15404 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-11-09 17:34:20,466 autoreload 3468 18484 Watching for file changes with StatReloader
+INFO 2026-11-09 17:34:26,968 log 3468 7776 "GET /api/doctors/ HTTP/1.1" 200 15357
+INFO 2026-11-09 17:34:27,273 log 3468 17048 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2026-11-09 17:34:27,294 log 3468 6536 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2026-11-09 17:34:27,294 log 3468 17048 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2026-11-09 17:34:27,298 log 3468 17048 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2026-11-09 17:34:27,298 log 3468 6536 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2026-11-09 17:34:27,301 log 3468 6536 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2026-11-09 17:34:27,302 log 3468 17048 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2026-11-09 17:34:27,303 log 3468 24532 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2026-11-09 17:34:27,305 log 3468 11384 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2026-11-09 17:34:27,307 log 3468 14860 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2026-11-09 17:34:27,309 log 3468 7776 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2026-11-09 17:34:27,319 log 3468 7776 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2026-11-09 17:42:29,167 autoreload 11244 13488 Watching for file changes with StatReloader
+INFO 2026-11-09 17:43:05,989 autoreload 11244 13488 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-11-09 17:43:07,067 autoreload 3768 17732 Watching for file changes with StatReloader
+INFO 2026-11-09 17:43:43,090 autoreload 26216 16836 Watching for file changes with StatReloader
+INFO 2026-11-09 17:46:26,279 autoreload 26216 16836 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 17:46:27,423 autoreload 15588 29156 Watching for file changes with StatReloader
+INFO 2026-11-09 17:46:37,943 autoreload 15588 29156 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 17:46:39,110 autoreload 23748 27856 Watching for file changes with StatReloader
+INFO 2026-11-09 17:48:34,541 autoreload 28960 8264 Watching for file changes with StatReloader
+INFO 2026-11-09 17:52:10,284 autoreload 25144 25324 Watching for file changes with StatReloader
+INFO 2026-11-09 17:54:51,149 autoreload 21924 29692 Watching for file changes with StatReloader
+INFO 2026-11-09 17:56:55,057 autoreload 21924 29692 C:\Users\alim\Desktop\itpm proj\ceback\roles\serializers.py changed, reloading.
+INFO 2026-11-09 17:56:56,471 autoreload 20200 20204 Watching for file changes with StatReloader
+INFO 2026-11-09 17:57:05,471 autoreload 20200 20204 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 17:57:06,729 autoreload 16520 8668 Watching for file changes with StatReloader
+INFO 2026-11-09 17:59:18,244 autoreload 16520 8668 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-11-09 17:59:19,586 autoreload 3992 22876 Watching for file changes with StatReloader
+INFO 2026-11-09 18:00:22,031 autoreload 3992 22876 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-11-09 18:00:23,146 autoreload 22440 27492 Watching for file changes with StatReloader
+INFO 2026-11-09 18:00:34,711 autoreload 22440 27492 C:\Users\alim\Desktop\itpm proj\ceback\roles\models.py changed, reloading.
+INFO 2026-11-09 18:00:36,160 autoreload 18264 29428 Watching for file changes with StatReloader
+INFO 2026-11-09 18:01:18,127 autoreload 18264 29428 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 18:01:19,309 autoreload 19556 15220 Watching for file changes with StatReloader
+INFO 2026-11-09 18:02:00,202 autoreload 19556 15220 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 18:02:01,071 autoreload 25192 28472 Watching for file changes with StatReloader
+INFO 2026-11-09 18:04:26,497 autoreload 25192 28472 C:\Users\alim\Desktop\itpm proj\ceback\ceback\settings.py changed, reloading.
+INFO 2026-11-09 18:04:27,437 autoreload 19996 2504 Watching for file changes with StatReloader
+INFO 2026-11-09 18:05:17,436 autoreload 19996 2504 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 18:05:18,326 autoreload 16536 11968 Watching for file changes with StatReloader
+INFO 2026-11-09 18:05:42,536 autoreload 16536 11968 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 18:05:43,768 autoreload 8560 3588 Watching for file changes with StatReloader
+INFO 2026-11-09 18:07:09,304 autoreload 8560 3588 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 18:07:10,644 autoreload 20508 26080 Watching for file changes with StatReloader
+INFO 2026-11-09 18:08:45,094 autoreload 20508 26080 C:\Users\alim\Desktop\itpm proj\ceback\roles\views.py changed, reloading.
+INFO 2026-11-09 18:08:46,245 autoreload 28952 6424 Watching for file changes with StatReloader
+INFO 2026-11-09 19:16:31,379 autoreload 12624 21316 Watching for file changes with StatReloader
